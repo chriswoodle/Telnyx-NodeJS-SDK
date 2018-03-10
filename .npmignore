@@ -1,0 +1,12 @@
+# git #
+.git*
+
+# Node #
+node_modules/
+
+# Test folder #
+test/
+
+# TypeScript #
+src/
+*.ts

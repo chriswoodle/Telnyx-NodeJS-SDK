@@ -1,0 +1,13 @@
+{
+  "name": "telnyx-sdk",
+  "version": "1.0.0",
+  "description": "Telnyx NodeJS SDK",
+  "main": "index.js",
+  "contributors" : [
+    "Chris Woodle cwoodle2014@my.fit.edu"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
